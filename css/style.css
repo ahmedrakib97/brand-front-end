@@ -102,16 +102,96 @@ nav.navbar.navbar-expand-lg.navbar-light {
 }
 
 
-.about_us span {
+.span {
     height: 3px;
     width: 50px;
     background: red;
     display: inline-block;
-    margin-top: 0px;
-    padding-top: 0px;
 }
 
 .about_us {
     padding-top: 70px;
     ;
+}
+
+.our_approach {
+    background: #f3f3f3;
+    padding: 100px 0px;
+
+}
+
+.no-gutters {
+    background: #fff;
+
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+.appr_img {
+    position: relative;
+}
+
+.step {
+    background: red;
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    right: -6%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.step h1 {
+    margin: 0px;
+    padding-top: 10px;
+    font-weight: 700;
+}
+
+.step p {
+    margin: 0px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.cont {
+    padding-right: 20px;
+}
+
+.cont h3 {
+    text-transform: capitalize;
+
+}
+
+.cont p {
+    padding-right: 20px;
+}
+
+
+.content {
+
+    text-align: right;
+}
+
+.apprch {
+    position: relative;
+}
+
+.apprch .step {
+    position: absolute;
+    left: -12%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+h3 {
+    padding-right: 20px;
 }
