@@ -1,0 +1,32 @@
+.top-header {
+    background: #f0f2f4;
+
+}
+
+.top-header ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+    padding: 10px 0;
+
+}
+
+.top-header ul li {
+    color: #424242;
+}
+
+.top-header ul li i {
+    margin-right: 5px;
+
+}
+
+.top-header ul .fb i {
+    background: #048ed0;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    line-height: 25px;
+    margin: 0;
+    color: #f0f2f4;
+}
