@@ -1,0 +1,67 @@
+@media(max-width:1199px) {}
+
+
+@media(max-width:991px) {}
+
+@media(max-width:767px) {
+
+    .top-header-content {
+        margin: auto;
+    }
+
+}
+
+
+@media(max-width:575px) {
+    .banner h1 {
+        font-size: 32px;
+    }
+
+    .btn-custom {
+        font-size: 14px;
+    }
+
+    .banner h5 {
+        font-size: 16px;
+    }
+
+    .hg {
+        min-height: 50vh;
+
+    }
+
+    .about_us h1 {
+        font-size: 35px;
+    }
+
+    .about_us h5 {
+        font-size: 16px;
+
+    }
+
+    .step {
+        right: -15%;
+        height: 80px;
+        width: 80px;
+    }
+
+    .apprch .step {
+        left: -18%;
+    }
+
+    .no-gutters {
+        padding: 20px 0;
+        ;
+
+    }
+
+    .step p {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .step h1 {
+        font-weight: 600;
+        font-size: 35px;
+    }
+}
