@@ -418,3 +418,118 @@ h5 {
     color: #fff;
     padding-bottom: 50px;
 }
+
+.contact {
+    background: #1287bf;
+    padding: 60px 0px;
+}
+
+.contact h1 {
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+}
+
+.contact i {
+    background: transparent;
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+.btn-col {
+    text-align: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 20px;
+}
+
+.btn-primary:focus {
+    color: #fff;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.getintouch {
+    background: #2a2a2a;
+    padding: 50px 20px;
+}
+
+.get-content {
+    color: #fff;
+    text-align: center;
+
+
+}
+
+.get-content h1 {
+    padding-bottom: 25px;
+    ;
+
+}
+
+.get-content ul {
+    list-style: none;
+    padding: 0;
+    width: 25%;
+    justify-content: space-between;
+    margin: auto;
+    padding-bottom: 30px;
+
+}
+
+.get-content li {
+    display: inline-block;
+    float: none;
+    padding: 2px;
+}
+
+.get-content ul li a {
+    border: 1px solid #fff;
+    padding: 5px 8px;
+    color: #fff;
+    border-radius: 4px;
+
+
+}
+
+.get-content ul li a i {}
+
+.get-content p {}
+
+.get-content input {
+    background: transparent;
+
+}
+
+.btn-warning {
+    color: #212529;
+    background-color: white;
+    border-color: blanchedalmond;
+    font-weight: 700;
+}
+
+footer {
+    background: #515151;
+    color: white;
+
+}
+
+footer p {
+
+    margin: 0;
+    color: rgb(238, 235, 235);
+}
+
+.fhg {
+    height: 50px;
+    align-items: center;
+}
